@@ -1,15 +1,3 @@
-# coding=utf-8
-# ******************************************************************************
-# Copyright (C), 2024-2031, Huawei Tech. Co., Ltd.
-# ******************************************************************************
-# File Name     : cluster_img
-# Description   : 
-# History       :
-# Date          : 2024/10/31
-# Author        : x00450452
-# Modification  : Created file
-# Version       : 1.0
-# ******************************************************************************/
 import numpy as np
 import cv2
 from sklearn.cluster import KMeans
